@@ -23,3 +23,21 @@ todo_app/
     ├── settings.py
     ├── urls.py
     └── wsgi.py
+# To-Do List Application
+
+## Objective
+A simple To-Do List application built using Django, HTML, and CSS.
+
+## Features
+- Add new tasks.
+- View a list of tasks.
+
+## Requirements
+- Python 3.x
+- Django 4.x
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd todo_app
